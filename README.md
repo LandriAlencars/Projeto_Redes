@@ -2,10 +2,10 @@
 
 Este projeto implementa um **Jogo da Velha (Tic Tac Toe)** multiplayer usando sockets em Python. Um servidor gerencia o jogo entre dois clientes conectados, que interagem via terminal.
 ## 💼📊Participantes
-Cleiber de Meireles da Silva Junnior
-Landri José de Alencar Sousa
-Leonardo Lima Barbosa Pereira
-Matheus Almeida Souza
+>Cleiber de Meireles da Silva Junnior
+>Landri José de Alencar Sousa
+>Leonardo Lima Barbosa Pereira
+>Matheus Almeida Souza
 
 ## 📁 Estrutura do Projeto
 
