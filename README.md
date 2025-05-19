@@ -38,7 +38,7 @@ python cliente.py
 
 ## 🧱 Requisitos
 
-- Python 3.x
+- Python 3.6
 
 ## 💡 Funcionalidades
 
