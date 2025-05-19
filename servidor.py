@@ -73,6 +73,10 @@ def main():
     host = '0.0.0.0'
     port = 5000
 
+    hostname = socket.gethostname()
+    ip_local = socket.gethostbyname(hostname)
+    print(f"Servidor iniciado no IP: {ip_local}")
+    
     servidor = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     servidor.bind((host, port))
     servidor.listen(2)  # Aceita até 2 conexões (2 jogadores)
