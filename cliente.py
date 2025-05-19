@@ -12,7 +12,7 @@ def main():
     #if len(sys.argv) < 2:
      #   print("Uso: python cliente.py <endereço_do_servidor>")
       #  return
-    x = input('Insira o Endereco do Servidor:')
+    x = input('Insira o Endereco do Servidor: ')
     host = x
     port = 5000
     
